@@ -26,5 +26,5 @@
 
 |번호|문제|주제|풀이|
 |---|---|---|---|
-|1393|Capital Gain/Loss|DB|[Solution]()|
+|1393|Capital Gain/Loss|DB|[Solution](https://github.com/desfox/algorithm/blob/master/leetcode/medium/1393.sql)|
 |1689|Partitioning Into Minimum Number Of Deci-Binary Numbers|String, Greedy|[Solution](https://github.com/desfox/algorithm/blob/master/leetcode/medium/1689.py)|
