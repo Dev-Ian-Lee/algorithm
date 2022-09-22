@@ -15,6 +15,7 @@ from typing import List
         
 
 # HashMap(dictionary) 사용해 시간복잡도 개선(O(n^2) -> O(n))
+# dictionary에 대한 in 연산자의 시간복잡도는 O(1)
 class Solution:
     def numIdenticalPairs(self, nums: List[int]) -> int:
         counted_times = {}
