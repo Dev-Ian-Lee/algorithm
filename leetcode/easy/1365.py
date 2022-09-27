@@ -28,7 +28,7 @@ from typing import List
                 
 #         return ret
 
-# 시간복잡도 개선(O(n^2) -> O(n))
+# 시간복잡도 개선(O(n^2) -> O(nlogn))
 class Solution:
     def smallerNumbersThanCurrent(self, nums: List[int]) -> List[int]:
         sorted_nums = sorted(nums)
