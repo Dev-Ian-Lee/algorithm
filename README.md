@@ -19,6 +19,19 @@
 |1581|[Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/)|DB|[Solution](https://github.com/desfox/algorithm/blob/master/leetcode/easy/1581.sql)|
 |1108|[Defanging an IP address](https://leetcode.com/problems/defanging-an-ip-address/)|String|[Solution](https://github.com/desfox/algorithm/blob/master/leetcode/easy/1108.py)|
 |2011|[Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)|Array, String, Simulation|[Solution](https://github.com/desfox/algorithm/blob/master/leetcode/easy/2011.py)|
+|1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|Array, Matrix|[Solution](https://github.com/desfox/algorithm/blob/master/leetcode/easy/1672.py)|
+|2114|[Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/)|Array, String|[Solution](https://github.com/desfox/algorithm/blob/master/leetcode/easy/2114.py)|
+|1512|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|Array, Hash Table, Math, Counting|[Solution](https://github.com/desfox/algorithm/blob/master/leetcode/easy/1512.py)|
+|2236|[Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/)|Tree, Binary Tree|[Solution](https://github.com/desfox/algorithm/blob/master/leetcode/easy/2236.py)|
+|1603|[Design Parking System](https://leetcode.com/problems/design-parking-system/)|Design, Simulation, Counting|[Solution](https://github.com/desfox/algorithm/blob/master/leetcode/easy/1603.py)|
+|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|Hash Table, String|[Solution](https://github.com/desfox/algorithm/blob/master/leetcode/easy/771.py)|
+|2160|[Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/)|Math, Greedy, Sorting|[Solution](https://github.com/desfox/algorithm/blob/master/leetcode/easy/2160.py)|
+|1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|Array|[Solution](https://github.com/desfox/algorithm/blob/master/leetcode/easy/1431.py)|
+|1379|[Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)|Tree, DFS, BFS, Binary Tree|[Solution](https://github.com/desfox/algorithm/blob/master/leetcode/easy/1379.py)|
+|1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|Math|[Solution](https://github.com/desfox/algorithm/blob/master/leetcode/easy/1281.py)|
+|1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|Array, Hash Table, Sorting, Counting|[Solution](https://github.com/desfox/algorithm/blob/master/leetcode/easy/1365.py)|
+|1678|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|String|[Solution](https://github.com/desfox/algorithm/blob/master/leetcode/easy/1678.py)|
+|1720|[Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)|Array, Bit Manipulation|[Solution](https://github.com/desfox/algorithm/blob/master/leetcode/easy/1720.py)|
 
 
 
@@ -28,3 +41,9 @@
 |---|---|---|---|
 |1393|[Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/)|DB|[Solution](https://github.com/desfox/algorithm/blob/master/leetcode/medium/1393.sql)|
 |1689|[Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|String, Greedy|[Solution](https://github.com/desfox/algorithm/blob/master/leetcode/medium/1689.py)|
+|1476|[Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/)|Array, Design, Matrix|[Solution](https://github.com/desfox/algorithm/blob/master/leetcode/medium/1476.py)|
+|2396|[Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/)|Math, Two Pointers, BrainTeaser|[Solution](https://github.com/desfox/algorithm/blob/master/leetcode/medium/2396.py)|
+|2181|[Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/)|Linked List, Simulation|[Solution](https://github.com/desfox/algorithm/blob/master/leetcode/medium/2181.py)|
+|1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)|Tree, DFS, BFS, Binary Tree|[Solution](https://github.com/desfox/algorithm/blob/master/leetcode/medium/1302.py)|
+|1828|[Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/)|Array, Math, Geometry|[Solution](https://github.com/desfox/algorithm/blob/master/leetcode/medium/1828.py)|
+|807|[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|Array, Greedy, Matrix|[Solution](https://github.com/desfox/algorithm/blob/master/leetcode/medium/807.py)|
