@@ -12,9 +12,9 @@ class Solution:
             alps.append(chr(ord(s_left[0]) + i))
         
         nums = []
-        nums_diff = ord(s_right[1]) - ord(s_left[1])
+        nums_diff = int(s_right[1]) - int(s_left[1])
         for i in range(nums_diff + 1):
-            nums.append(chr(ord(s_left[1]) + i))
+            nums.append(str(int(s_left[1]) + i))
         
         ret = []
         
