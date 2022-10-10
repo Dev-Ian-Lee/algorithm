@@ -9,7 +9,7 @@ class Solution:
         travel.insert(0, 0)
         last_idx = 0
 
-        # 시간복잡도 : O(n^2)
+        # 시간복잡도 : O(n)
         # types의 길이는 항상 3이고, garbage[i]의 최대 길이가 10이기 때문(문제 조건)
         for t in types:
             
