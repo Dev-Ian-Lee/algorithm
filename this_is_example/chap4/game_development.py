@@ -150,7 +150,7 @@ visited_map = [[0] * M for _ in range(N)]
 for _ in range(N):
     game_map.append(list(map(int, input().split())))
 
-game_map[x][y] = 1
+visited_map[x][y] = 1
 visit_count = 1
 
 # 반시계 방향으로 회전 시 이동할 좌표
