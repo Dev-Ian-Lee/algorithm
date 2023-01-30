@@ -1,4 +1,4 @@
-# <이것이 취업을 위한 코딩 테스트다> 예제 5-5
+# <이것이 취업을 위한 코딩 테스트다> 예제 5-6
 
 from collections import deque
 
