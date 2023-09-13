@@ -1,5 +1,6 @@
 # https://www.acmicpc.net/problem/13335
 
+# 걸린 시간: 20min
 # 시간복잡도: O(N)
 # 최대 경우의 수(n * w)가 100,000이므로 O(N)에 해결 가능
 # pop() 연산을 자주 사용하기 때문에 pop() 연산의 시간복잡도가 O(1)인 deque 사용
